@@ -1,0 +1,3 @@
+C:/Users/ahutc/Desktop/clion-project1/cmake-build-debug/CMakeFiles/clion_project1.dir
+C:/Users/ahutc/Desktop/clion-project1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ahutc/Desktop/clion-project1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+# ninja log v6
+11	1287	7554694563745678	CMakeFiles/clion_project1.dir/main.cpp.obj	8af75b66f8176951
+71	3302	7554042580444504	CMakeFiles/clion_project1.dir/BackgroundMusic.cpp.obj	99cc72acf1be0fff
+1288	1398	7554694576499389	clion_project1.exe	f7fb35aafcdf86d1
+4	529	7566707722707462	build.ninja	e1ef1d2dc7bb335
+24	2074	7554101913187986	CMakeFiles/clion_project1.dir/SDL_Functions.cpp.obj	9a2f0273d36fcf2f
+13	1674	7554201399328115	CMakeFiles/clion_project1.dir/Flipper.cpp.obj	7cd7af795de6f2db
+67	3708	7554042580403420	CMakeFiles/clion_project1.dir/Enemies.cpp.obj	e738eb6474d6cc92
+24	995	7554117105949700	CMakeFiles/clion_project1.dir/Ltimer.cpp.obj	43803285107bcf1
+75	2114	7554042580489247	CMakeFiles/clion_project1.dir/SoundEffect.cpp.obj	881e4c471fa1ee64
+62	5458	7566707745018280	CMakeFiles/clion_project1.dir/Ltimer.cpp.obj	17e47b6101f7d55a
+86	5485	7566707745264132	CMakeFiles/clion_project1.dir/SoundEffect.cpp.obj	36481c6105a9042f
+51	6408	7566707744913048	CMakeFiles/clion_project1.dir/Flipper.cpp.obj	47d81261861c00e
+81	6414	7566707745213303	CMakeFiles/clion_project1.dir/BackgroundMusic.cpp.obj	ac995afd57df9ec2
+37	6451	7566707744772289	CMakeFiles/clion_project1.dir/main.cpp.obj	978f383b18c660c3
+76	6459	7566707745158103	CMakeFiles/clion_project1.dir/Enemies.cpp.obj	6e1753cbe706b981
+43	6597	7566707744827566	CMakeFiles/clion_project1.dir/SDL_Functions.cpp.obj	ae938d5f5a1d8704
+6597	6806	7566707810373334	clion_project1.exe	eb831dfbeb245a0
