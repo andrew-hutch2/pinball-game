@@ -51,8 +51,6 @@ A modern implementation of a classic pinball game using C++ and SDL2. This proje
 2. Object-Oriented Programming
    - Class hierarchy design
    - Encapsulation
-   - Inheritance
-   - Polymorphism
 
 3. Game Development
    - Game loop implementation
